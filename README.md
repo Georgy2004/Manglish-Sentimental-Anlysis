@@ -2,7 +2,7 @@
 
 A Streamlit app that predicts the sentiment of Manglish text. Manglish is Malayalam written in the Latin alphabet, often mixed with English words. For example, “Ee movie adipoli aanu!” means “This movie is awesome!”
 
-Enter a review or comment, click **Predict Sentiment**, and the app displays the label predicted by the trained machine learning model.
+Enter a review or comment, click **Predict Sentiment**, and the app displays the label predicted by the trained machine learning model. 
 
 ## Try it
 
